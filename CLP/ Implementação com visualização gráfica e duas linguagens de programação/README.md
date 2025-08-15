@@ -57,11 +57,3 @@ int mandelbrot(int width, int height,
                int max_iter,
                int *out_buffer);
 ```
-
-## Caso de estudo (exemplo)
-- Configuração padrão: `width=800`, `height=600`, `max_iter=500`,
-  `xmin=-2.5`, `xmax=1.0`, `ymin=-1.25`, `ymax=1.25`.
-- Clique em **Zoom +** algumas vezes para explorar a fronteira do conjunto.
-
-## Licença
-Uso acadêmico / educacional. Sinta-se à vontade para adaptar.
